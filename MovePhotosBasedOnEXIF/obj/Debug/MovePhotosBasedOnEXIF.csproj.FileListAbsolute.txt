@@ -1,0 +1,16 @@
+D:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.csprojAssemblyReference.cache
+D:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.Form_MovePhotosBasedOnEXIF.resources
+D:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.Properties.Resources.resources
+D:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.csproj.GenerateResource.cache
+D:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\bin\Debug\MovePhotosBasedOnEXIF.exe.config
+D:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.csproj.CoreCompileInputs.cache
+D:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.exe
+D:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.pdb
+C:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.csprojAssemblyReference.cache
+C:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.Form_MovePhotosBasedOnEXIF.resources
+C:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.Properties.Resources.resources
+C:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.csproj.GenerateResource.cache
+C:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.exe
+C:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.pdb
+C:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\bin\Debug\MovePhotosBasedOnEXIF.exe.config
+C:\3D_prj\VS_2013_prj\MovePhotosBasedOnEXIF\MovePhotosBasedOnEXIF\obj\Debug\MovePhotosBasedOnEXIF.csproj.CoreCompileInputs.cache
